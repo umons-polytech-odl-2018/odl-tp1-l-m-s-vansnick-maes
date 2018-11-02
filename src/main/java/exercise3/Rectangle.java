@@ -1,4 +1,11 @@
 package exercise3;
 
-public class Rectangle {
+public class Rectangle extends ConvexPolygon {
+
+	Rectangle(Point upperLeft,Point lowerRigth){
+
+	};
+
+
+	Rectangle(){};
 }
