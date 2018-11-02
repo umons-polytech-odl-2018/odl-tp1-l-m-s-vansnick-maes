@@ -6,11 +6,11 @@ public class ConvexPolygon {
 
 
 	public double perimeter(){
-
+		return;
 	};
 
 	public double area(){
-
+		return;
 	};
 
 	public ConvexPolygon(Point vertices){
